@@ -11,6 +11,7 @@
 @implementation MouseWatcherAppDelegate
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
+    // get main screen size
     theScreen = [[NSScreen mainScreen] frame];
     
     
@@ -26,13 +27,15 @@
 {
     NSPoint mouseLoc; 
     
+    // get mouse location
     mouseLoc = [NSEvent mouseLocation];
     
+    // update fields in HUD
     [blMouseXPos setFloatValue:mouseLoc.x];
     [blMouseYPos setFloatValue:mouseLoc.y];
     
     [tlMouseXPos setFloatValue:mouseLoc.x];
-    [tlMouseYPos setFloatValue:(theScreen.size.height - mouseLoc.y)];
+    [tlMouseYPos setFloatValue:(NSMaxY(theScreen) - mouseLoc.y)];
 
 }
 
