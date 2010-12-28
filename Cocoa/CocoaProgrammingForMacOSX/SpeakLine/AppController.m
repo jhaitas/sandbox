@@ -1,14 +1,14 @@
 //
-//  SpeakLineAppDelegate.m
+//  AppController.m
 //  SpeakLine
 //
 //  Created by John Haitas on 12/27/10.
 //  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
-#import "SpeakLineAppDelegate.h"
+#import "AppController.h"
 
-@implementation SpeakLineAppDelegate
+@implementation AppController
 
 @synthesize textField,startButton,stopButton;
 

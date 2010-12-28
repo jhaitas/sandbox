@@ -1,5 +1,5 @@
 //
-//  SpeakLineAppDelegate.h
+//  AppController.h
 //  SpeakLine
 //
 //  Created by John Haitas on 12/27/10.
@@ -8,7 +8,7 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface SpeakLineAppDelegate : NSObject <NSSpeechSynthesizerDelegate> {
+@interface AppController : NSObject <NSSpeechSynthesizerDelegate> {
     NSSpeechSynthesizer *speechSynth;
     
     NSTextField *textField;
