@@ -3,7 +3,7 @@
 //  DockManager
 //
 //  Created by John Haitas on 12/12/10.
-//  Copyright 2010 J. Haitas, LLC. All rights reserved.
+//  Copyright 2010 __MyCompanyName__. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
