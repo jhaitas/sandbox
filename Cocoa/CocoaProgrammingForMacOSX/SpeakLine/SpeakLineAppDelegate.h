@@ -8,14 +8,21 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface SpeakLineAppDelegate : NSObject <NSApplicationDelegate> {
-    NSTextField *textField;
+@interface SpeakLineAppDelegate : NSObject <NSSpeechSynthesizerDelegate> {
     NSSpeechSynthesizer *speechSynth;
+    
+    NSTextField *textField;
+    NSButton    *stopButton;
+    NSButton    *startButton;
 }
 
 @property (assign) IBOutlet NSTextField *textField;
+@property (assign) IBOutlet NSButton    *stopButton;
+@property (assign) IBOutlet NSButton    *startButton;
 
 - (IBAction) sayIt: (id) sender;
 - (IBAction) stopIt: (id) sender;
 
+- (void) speechSynthesizer: (NSSpeechSynthesizer *) sender
+         didFinishSpeaking: (BOOL) complete;
 @end

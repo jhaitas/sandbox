@@ -10,7 +10,7 @@
 
 @implementation SpeakLineAppDelegate
 
-@synthesize textField;
+@synthesize textField,startButton,stopButton;
 
 - (id) init
 {
@@ -19,7 +19,8 @@
     
     NSLog(@"init");
     
-    speechSynth = [[NSSpeechSynthesizer alloc] init];
+    speechSynth = [[NSSpeechSynthesizer alloc] initWithVoice:nil];
+    [speechSynth setDelegate:self];
     return self;
 }
 
@@ -34,6 +35,9 @@
     
     [speechSynth startSpeakingString:string];
     NSLog(@"Have started to say: %@",string);
+    
+    [startButton setEnabled:NO];
+    [stopButton setEnabled:YES];
 }
 
 - (IBAction) stopIt: (id) sender
@@ -42,8 +46,12 @@
     [speechSynth stopSpeaking];
 }
 
-- (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
-	// Insert code here to initialize your application 
+- (void) speechSynthesizer: (NSSpeechSynthesizer *) sender
+         didFinishSpeaking: (BOOL) complete
+{
+    NSLog(@"complete = %d",complete);
+    [startButton setEnabled:YES];
+    [stopButton setEnabled:NO];
 }
 
 @end
