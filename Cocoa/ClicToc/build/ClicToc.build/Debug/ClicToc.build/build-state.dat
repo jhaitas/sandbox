@@ -1,0 +1,235 @@
+TClicToc
+v7
+r0
+t315464521.607278
+cCheck dependencies
+cProcessInfoPlistFile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Info.plist ClicToc-Info.plist
+cCopyStringsFile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch.gch ClicToc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/main.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicTocAppDelegate.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClickCatcher.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc normal x86_64
+cTouch /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.h
+c000000004D1D4B8B000000000000017B
+t1293765515
+s379
+i<Cocoa/Cocoa.h>
+i"ClickCatcher.h"
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m
+c000000004D1D5CEF000000000000023D
+t1293769967
+s573
+i"ClicTocAppDelegate.h"
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicToc_Prefix.pch
+c000000004D1D34AF0000000000000091
+t1293759663
+s145
+i<Cocoa/Cocoa.h>
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.h
+c000000004D1D4D500000000000000076
+t1293765968
+s118
+i<Cocoa/Cocoa.h>
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m
+c000000004D1D61480000000000000532
+t1293771080
+s1330
+i"ClickCatcher.h"
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/InfoPlist.strings
+c000000004D1D34AF000000000000002D
+t1293759663
+s45
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib
+c000000004D1D4A9B000000000000CD0E
+t1293765275
+s52494
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicToc.LinkFileList
+c000000004D1D408C0000000000000160
+t1293762700
+s352
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicTocAppDelegate.o
+t1293769968
+s25600
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClickCatcher.o
+t1293771081
+s20932
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/main.o
+t1293759876
+s4992
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app
+t1293771081
+s102
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Info.plist
+t1293759871
+s886
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc
+t1293771081
+s16856
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/PkgInfo
+t1293759871
+s8
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1293759871
+s92
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/MainMenu.nib
+t1293765471
+s7691
+
+N/Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m
+c000000004D1D34AF00000000000000FA
+t1293759663
+s250
+i<Cocoa/Cocoa.h>
+
+N/var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch.gch
+t1293759875
+s54306576
+
+NClicToc-Info.plist
+c000000004D1D34AF00000000000003EA
+t1293759663
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315464521#315464521#0(0"0(0#1#0"8616704736#0"0#
+
+CCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicTocAppDelegate.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315462768.175193
+e315462768.749383
+r1
+xCompileC
+xbuild/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicTocAppDelegate.o
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m315462768#315462768#0(0"0(0#0#61"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m8656110880#1500"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-generated-files.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-own-target-headers.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-all-target-headers.hmap -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-project-headers.hmap -F/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/include -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources/x86_64 -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources -include /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch -c /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicTocAppDelegate.m -o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicTocAppDelegate.o0#
+
+CCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClickCatcher.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315463881.290697
+e315463881.781865
+r1
+xCompileC
+xbuild/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClickCatcher.o
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m: In function '-[ClickCatcher mouseDown:]':
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: 'ClickCatcher' may not respond to '-generateMouseClick:'
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: (Messages without a matching method signature
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: will be assumed to return 'id' and accept
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: '...' as arguments.)
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m: In function '-[ClickCatcher generateMouseClick:]':
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:53: warning: 'CGPostMouseEvent' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers/CGRemoteOperation.h:307)
+o/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:53: warning: unused variable 'err'
+lSLF07#2@63"Compile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m315463881#315463881#0(1009"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m: In function '-[ClickCatcher mouseDown:]':/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: 'ClickCatcher' may not respond to '-generateMouseClick:'/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: (Messages without a matching method signature/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: will be assumed to return 'id' and accept/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:48: warning: '...' as arguments.)/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m: In function '-[ClickCatcher generateMouseClick:]':/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:53: warning: 'CGPostMouseEvent' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers/CGRemoteOperation.h:307)/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m:53: warning: unused variable 'err'4(22@56"'ClickCatcher' may not respond to '-generateMouseClick:'315463881#99#126#0(6@55"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m315463880#48#0#48#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)315463881#225#115#0(6@55"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m315463880#48#0#48#0#0"0(22@199"'CGPostMouseEvent' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/ApplicationServices.framework/Frameworks/CoreGraphics.framework/Headers/CGRemoteOperation.h:307)315463881#649#269#0(6@55"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m315463880#53#0#53#0#33"'*' is deprecated (declared at *)0(22@21"Unused variable 'err'315463881#918#91#0(6@55"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m315463880#53#0#53#0#19"unused variable '*'0(0#0#55"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m8651407552#1488"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-generated-files.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-own-target-headers.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-all-target-headers.hmap -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-project-headers.hmap -F/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/include -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources/x86_64 -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources -include /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch -c /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClickCatcher.m -o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClickCatcher.o0#
+
+CCompileC build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/main.o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315452675.785108
+e315452676.111877
+r1
+xCompileC
+xbuild/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/main.o
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m315452675#315452676#0(0"0(0#0#47"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m8616424960#1472"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-generated-files.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-own-target-headers.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-all-target-headers.hmap -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-project-headers.hmap -F/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/include -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources/x86_64 -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources -include /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch -c /Users/jhaitas/src/sandbox/Cocoa/ClicToc/main.m -o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib
+s315458269.939216
+e315458271.413574
+r1
+xCompileXIB
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib315458269#315458271#0(0"0(0#0#67"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib8658361440#370"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/MainMenu.nib /Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s315452671.283236
+e315452671.713357
+r1
+xCopyStringsFile
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings315452671#315452671#0(0"0(0#0#72"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/English.lproj/InfoPlist.strings8616864032#369"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Resources/English.lproj0#
+
+CLd /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc normal x86_64
+s315463881.781958
+e315463881.873878
+r1
+xLd
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc
+xnormal
+xx86_64
+lSLF07#2@92"Link /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc315463881#315463881#0(0"0(0#0#0"8655133088#552"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -F/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -filelist /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/Objects-normal/x86_64/ClicToc.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/MacOS/ClicToc0#
+
+CProcessInfoPlistFile /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Info.plist ClicToc-Info.plist
+s315452671.253157
+e315452671.282976
+r1
+xProcessInfoPlistFile
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Info.plist
+xClicToc-Info.plist
+lSLF07#2@26"Process ClicToc-Info.plist315452671#315452671#0(0"0(0#0#59"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicToc-Info.plist30399585250639976#316"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    builtin-infoPlistUtility ClicToc-Info.plist -genpkginfo /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch.gch ClicToc_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315452671.713525
+e315452675.784901
+r1
+xProcessPCH
+x/var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch.gch
+xClicToc_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile ClicToc_Prefix.pch315452671#315452675#0(0"0(0#0#59"/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicToc_Prefix.pch8615283072#1376"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-generated-files.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-own-target-headers.hmap -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-all-target-headers.hmap -iquote /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/ClicToc-project-headers.hmap -F/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/include -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources/x86_64 -I/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/ClicToc.build/Debug/ClicToc.build/DerivedSources -c /Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicToc_Prefix.pch -o /var/folders/w3/w3mNYI4JHC8t3b9oIbCmx++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ClicToc_Prefix-aehdnxdhxqenhednlxiugyjifztu/ClicToc_Prefix.pch.gch0#
+
+CTouch /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app
+s315463881.874501
+e315463881.888454
+r1
+xTouch
+x/Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app
+lSLF07#2@70"Touch /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app315463881#315463881#0(0"0(0#0#0"8655865408#135"    cd /Users/jhaitas/src/sandbox/Cocoa/ClicToc    /usr/bin/touch -c /Users/jhaitas/src/sandbox/Cocoa/ClicToc/build/Debug/ClicToc.app0#
+

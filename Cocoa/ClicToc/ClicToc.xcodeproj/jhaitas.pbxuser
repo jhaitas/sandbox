@@ -1,0 +1,260 @@
+// !$*UTF8*$!
+{
+	256AC3D80F4B6AC300CF3369 /* ClicTocAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 473}}";
+			sepNavSelRange = "{276, 0}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* ClicTocAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {538, 636}}";
+			sepNavSelRange = "{573, 0}";
+			sepNavVisRange = "{0, 573}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 589A2ABB12CD6C2F00D34392 /* ClicToc */;
+		activeTarget = 8D1107260486CEB800E47090 /* ClicToc */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* ClicToc */,
+		);
+		breakpoints = (
+			589A2B7112CD98ED00D34392 /* ClickCatcher.m:54 */,
+		);
+		codeSenseManager = 589A2AC812CD6C4F00D34392 /* Code sense */;
+		executables = (
+			589A2ABB12CD6C2F00D34392 /* ClicToc */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					678,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315452464;
+			PBXWorkspaceStateSaveDate = 315452464;
+		};
+		perUserProjectItems = {
+			589A2AC912CD6C5800D34392 /* PBXBookmark */ = 589A2AC912CD6C5800D34392 /* PBXBookmark */;
+			589A2B7512CD9B5A00D34392 /* PlistBookmark */ = 589A2B7512CD9B5A00D34392 /* PlistBookmark */;
+			589A2B7612CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B7612CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B7712CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B7712CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B7812CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B7812CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B7912CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B7912CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B7A12CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B7A12CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B8012CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B8012CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B8212CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B8212CD9B5A00D34392 /* PBXTextBookmark */;
+			589A2B8612CD9B5A00D34392 /* PBXTextBookmark */ = 589A2B8612CD9B5A00D34392 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 589A2AC712CD6C4F00D34392 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	589A2ABB12CD6C2F00D34392 /* ClicToc */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ClicToc;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	589A2AC712CD6C4F00D34392 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	589A2AC812CD6C4F00D34392 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	589A2AC912CD6C5800D34392 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ClicTocAppDelegate.m */;
+	};
+	589A2AE412CD778100D34392 /* ClickCatcher.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 473}}";
+			sepNavSelRange = "{100, 0}";
+			sepNavVisRange = "{0, 118}";
+		};
+	};
+	589A2AE512CD778100D34392 /* ClickCatcher.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {856, 741}}";
+			sepNavSelRange = "{1066, 0}";
+			sepNavVisRange = "{514, 811}";
+		};
+	};
+	589A2B7112CD98ED00D34392 /* ClickCatcher.m:54 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 589A2AE512CD778100D34392 /* ClickCatcher.m */;
+		functionName = "-generateMouseClick:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 54;
+		location = ClicToc;
+		modificationTime = 315464527.283521;
+		originalNumberOfMultipleMatches = 1;
+		state = 0;
+	};
+	589A2B7512CD9B5A00D34392 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ClicToc-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/jhaitas/src/sandbox/Cocoa/ClicToc/ClicToc-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	589A2B7612CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 589A2AE412CD778100D34392 /* ClickCatcher.h */;
+		name = "ClickCatcher.h: 7";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 118;
+		vrLoc = 0;
+	};
+	589A2B7712CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* ClicTocAppDelegate.h */;
+		name = "ClicTocAppDelegate.h: 13";
+		rLen = 0;
+		rLoc = 276;
+		rType = 0;
+		vrLen = 379;
+		vrLoc = 0;
+	};
+	589A2B7812CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ClicTocAppDelegate.m */;
+		name = "ClicTocAppDelegate.m: 16";
+		rLen = 0;
+		rLoc = 332;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	589A2B7912CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 589A2AE512CD778100D34392 /* ClickCatcher.m */;
+		name = "ClickCatcher.m: 53";
+		rLen = 0;
+		rLoc = 1269;
+		rType = 0;
+		vrLen = 816;
+		vrLoc = 514;
+	};
+	589A2B7A12CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 589A2AE512CD778100D34392 /* ClickCatcher.m */;
+		name = "ClickCatcher.m: 42";
+		rLen = 0;
+		rLoc = 1066;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 514;
+	};
+	589A2B8012CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 589A2B8112CD9B5A00D34392 /* NSEvent.h */;
+		rLen = 1;
+		rLoc = 132;
+		rType = 1;
+	};
+	589A2B8112CD9B5A00D34392 /* NSEvent.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSEvent.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSEvent.h;
+		sourceTree = "<absolute>";
+	};
+	589A2B8212CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 589A2B8312CD9B5A00D34392 /* NSEvent.h */;
+		name = "NSEvent.h: 243";
+		rLen = 16;
+		rLoc = 8214;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 7091;
+	};
+	589A2B8312CD9B5A00D34392 /* NSEvent.h */ = {
+		isa = PBXFileReference;
+		name = NSEvent.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Versions/C/Headers/NSEvent.h;
+		sourceTree = "<absolute>";
+	};
+	589A2B8612CD9B5A00D34392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* ClicTocAppDelegate.m */;
+		name = "ClicTocAppDelegate.m: 34";
+		rLen = 0;
+		rLoc = 573;
+		rType = 0;
+		vrLen = 573;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* ClicToc */ = {
+		activeExec = 0;
+		executables = (
+			589A2ABB12CD6C2F00D34392 /* ClicToc */,
+		);
+	};
+}
